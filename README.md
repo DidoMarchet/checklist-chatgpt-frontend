@@ -3,3 +3,7 @@
 ## Indice
 
 - [🇮🇹 Italiano](/it/CHECKLIST.md)
+
+## Thanks
+
+Enjoy :punch:
