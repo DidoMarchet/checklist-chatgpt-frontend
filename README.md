@@ -4,8 +4,8 @@ A comprehensive checklist for optimizing your frontend. Enhanced by ChatGPT insi
 
 ## Translations
 
+- [🇬🇧 English](/en/CHECKLIST.md)
 - [🇮🇹 Italiano](/it/CHECKLIST.md)
-
 
 ## Contribute
 Feel free to fork this repo and add a translation!
