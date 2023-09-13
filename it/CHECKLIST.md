@@ -56,7 +56,6 @@
 - [ ] **Implement & Monitor AMP**: Se appropriato per il tuo sito, implementa e monitora le pagine AMP (Accelerated Mobile Pages) per migliorare le prestazioni su dispositivi mobili.
 - [ ] **Monitor Core Web Vitals**: Tieni d'occhio le metriche essenziali del web come LCP, FID e CLS, e apporta le ottimizzazioni necessarie.
 
-
 ## 🧭 Navigazione Generale del Sito
 
 - [ ] **Main Navigation**: Assicurati che conduca alle pagine principali e che ogni link funzioni correttamente. Testa anche il comportamento del menu a tendina, se presente.
@@ -100,7 +99,6 @@
 - [ ] **Returns and Refunds**: Controlla le policy di reso e rimborso, e verifica la chiarezza delle istruzioni fornite.
 - [ ] **Customer Support**: Verifica la funzionalità dei canali di supporto al cliente come chat, email e telefono.
 - [ ] **Security**: Assicurati che le pagine di checkout siano protette (HTTPS) e verifica la presenza di certificati di sicurezza.
-
 
 ## 📧 Email Transazionali e di Servizio
 
