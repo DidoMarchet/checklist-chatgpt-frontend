@@ -8,7 +8,7 @@
 - [🛍️ E-commerce](#-e-commerce)
 - [📝 Contenuti e Copy](#-contenuti-e-copy)
 - [📈 Marketing](#-marketing)
-- [🛠 Monitoring e Maintenance](#-monitoring-e-maintenance)
+- [🛠 Monitoraggio e Manutenzione](#-monitoraggio-e-manutenzione)
 
 ## 🔍 Codice
 
@@ -262,7 +262,7 @@
 
 - [ ] **Monitoraggio Campagne**: Utilizza strumenti per valutare l'efficacia delle campagne pubblicitarie (es. parametri UTM).
 
-# 🛠 Monitoraggio e Manutenzione
+## 🛠 Monitoraggio e Manutenzione
 
 #### Monitoraggio Sito
 
