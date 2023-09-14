@@ -21,27 +21,26 @@
 
 #### Performance e Ottimizzazione
 
-- [ ] **Image Optimization**: Sfrutta formati efficienti come WebP.
-- [ ] **Lazy Loading**: Implementa per contenuti multimediali per migliorare le prestazioni.
+- [ ] **Image Optimization**: Utilizza formati efficienti come WebP.
+- [ ] **Lazy Loading**: Implementa il caricamento lazy per contenuti multimediali per migliorare le prestazioni.
 - [ ] **Console Errors**: Assicurati che non siano presenti errori o warning nella console.
 - [ ] **Performance Metrics**: Monitora metriche chiave come First Contentful Paint e Time to Interactive.
-- [ ] **Minification**: Assicurati di usare strumenti e tecniche appropriate per ottimizzare il codice.
-- [ ] **Bundling**: Considera l'utilizzo di soluzioni come Webpack o Rollup.
-- [ ] **CDN Usage**: Sfrutta Content Delivery Networks per velocizzare la distribuzione di asset.
+- [ ] **Bundling e Minification**: Considera l'utilizzo di soluzioni come Vite, Webpack o Rollup.
+- [ ] **CDN Usage**: Sfrutta Content Delivery Networks per velocizzare la distribuzione di assets.
 - [ ] **Cache Headers**: Ottimizza i tempi di caricamento configurando correttamente la cache.
 
 #### Sicurezza
 
-- [ ] **Security Headers**: Imposta header di sicurezza per proteggere il sito da vari attacchi.
+- [ ] **Security Headers**: Imposta header di sicurezza per proteggere il sito da vari attacchi e considera l'utilizzo di soluzioni come Cloudflare.
 - [ ] **APIs**: Verifica che tutte le API esterne e interne siano funzionanti e sicure.
 
 #### Deployment e Lifecycle
 
-- [ ] **Dependencies Update**: Mantieni il tuo progetto aggiornato e sicuro.
-- [ ] **Unit Testing**: Garantisci copertura adeguata per le funzionalità chiave.
-- [ ] **Continuous Integration**: Implementa procedure per testare e distribuire il codice in modo efficiente.
-- [ ] **Server Configuration**: Assicurati che sia ottimizzata per le prestazioni.
-- [ ] **Database Queries**: Monitora ed ottimizza per prestazioni fluide.
+- [ ] **Dependencies Update**: Mantieni le dipendenze del tuo progetto aggiornate.
+- [ ] **Unit Testing**: Assicurati che le funzioni principali siano adeguatamente testate.
+- [ ] **Continuous Integration**: Implementa procedure per testare e distribuire il codice in modo efficiente e considera l'utilizzo di soluzioni come Netlify.
+- [ ] **Server Configuration**: Assicurati che la configurazione del server sia ottimizzata per le ottenere migliori prestazioni.
+- [ ] **Database Queries**: Monitora ed ottimizza le query per ottenere migliori prestazioni.
 
 ## 🌐 SEO
 
@@ -76,13 +75,13 @@
 
 - [ ] **Navigazione Principale**: Assicurati che conduca alle pagine principali e ogni link funzioni correttamente. Testa anche il comportamento del menu a tendina, se presente.
 - [ ] **Navigazione Footer**: Controlla collegamenti alle pagine secondarie come "Chi siamo", "Contatti", ecc.
-- [ ] **Breadcrumb**: Assicurati che rifletta accuratamente la struttura del sito.
+- [ ] **Breadcrumbs**: Assicurati che riflettano la struttura del sito.
 
 #### Collegamenti Interni
 
-- [ ] **Link Interni**: Naviga attraverso il sito seguendo link interni e verifica che conducano alle pagine previste.
+- [ ] **Link Interni**: Naviga attraverso il sito seguendo link interni e verifica che conducano alle pagine corrette.
 - [ ] **Paginazione**: Verifica la navigazione tra le pagine.
-- [ ] **Pagina 404**: Assicurati che ci sia una pagina 404 personalizzata e utile.
+- [ ] **Pagina 404**: Assicurati che ci sia una pagina 404.
 
 #### Funzionalità e Design
 
@@ -95,7 +94,7 @@
 
 - [ ] **Funzionalità di Ricerca**: Testa inserendo termini specifici.
 - [ ] **Condivisione Social**: Testa i pulsanti di condivisione.
-- [ ] **Form di Contatto**: Testa ogni campo della form.
+- [ ] **Form di Contatto**: Testa ogni campo della form e che restituisca errori in caso di compilazione errata.
 - [ ] **Sezione Commenti**: Interagisci, se presente.
 - [ ] **CTAs**: Verifica l'identificabilità.
 - [ ] **Feed RSS**: Controlla i contenuti, se presente.
@@ -306,4 +305,4 @@
 
 #### Monitoraggio Sicurezza
 
-- [ ] **Sicurezza Sito**: Sovraintendi la sicurezza del tuo sito per individuare e contrastare vulnerabilità (es. con strumenti come Sucuri per WordPress).
+- [ ] **Sicurezza Sito**: Monitora la sicurezza del tuo sito per individuare e contrastare vulnerabilità.
