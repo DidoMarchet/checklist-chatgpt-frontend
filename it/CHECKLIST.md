@@ -5,7 +5,7 @@
 - [🔍 Codice](#-codice)
 - [🌐 SEO](#-seo)
 - [🧭 Navigazione Generale del Sito](#-navigazione-generale-del-sito)
-- [Navigazione Generale Ecommerce](#navigazione-generale-ecommerce)
+- [🛍️ Navigazione Generale Ecommerce](#-navigazione-generale-ecommerce)
 - [📝 Contenuti e Copy](#-contenuti-e-copy)
 - [📈 Marketing](#-marketing)
 - [🛠 Monitoraggio e Manutenzione](#-monitoraggio-e-manutenzione)
@@ -105,7 +105,7 @@
 
 - [ ] **Testimonianze e Recensioni**: Assicurati che siano visibili e leggibili.
 
-## Navigazione Generale Ecommerce
+## 🛍️ Navigazione Generale Ecommerce
 
 #### Gestione Utente
 
