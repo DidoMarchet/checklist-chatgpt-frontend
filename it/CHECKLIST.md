@@ -5,7 +5,7 @@
 - [🔍 Codice](#-codice)
 - [🌐 SEO](#-seo)
 - [🧭 Navigazione Generale del Sito](#-navigazione-generale-del-sito)
-- [🛍️ E-commerce](#-e-commerce)
+- [🛍️ E-commerce](#e-commerce)
 - [📝 Contenuti e Copy](#-contenuti-e-copy)
 - [📈 Marketing](#-marketing)
 - [🛠 Monitoraggio e Manutenzione](#-monitoraggio-e-manutenzione)
