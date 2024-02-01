@@ -223,7 +223,7 @@
 
 #### Analisi del Sito
 
-- [ ] **Analisi del Sito**: Assicurati della corretta configurazione del monitoraggio delle visite (es. Google Analytics).
+- [ ] **Analisi del Sito**: Assicurati della corretta configurazione del monitoraggio delle visite e degli eventi (es. Google Analytics).
 
 #### Gestione Tag
 
@@ -245,21 +245,13 @@
 
 - [ ] **Retargeting**: Installa e testa gli strumenti per il retargeting degli utenti (es. Facebook Pixel).
 
-#### Campagne Remarketing
-
-- [ ] **Remarketing**: Configura e verifica le campagne per raggiungere gli utenti che hanno interagito con il tuo sito.
-
 #### Sequenze di Automazione Marketing
 
 - [ ] **Sequenze Automazione**: Controlla che le sequenze, come email di benvenuto, siano ottimizzate.
 
-#### Ottimizzazione Conversioni
-
-- [ ] **Ottimizzazione Conversioni**: Implementa test per migliorare le conversioni delle pagine (es. test A/B).
-
 #### Monitoraggio Efficacia Campagne
 
-- [ ] **Monitoraggio Campagne**: Utilizza strumenti per valutare l'efficacia delle campagne pubblicitarie (es. parametri UTM).
+- [ ] **Monitoraggio Campagne**: Testa strumenti per valutare l'efficacia delle campagne pubblicitarie (es. parametri UTM).
 
 ## 🛠 Monitoraggio e Manutenzione
 
