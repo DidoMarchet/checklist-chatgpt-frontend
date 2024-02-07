@@ -54,13 +54,12 @@
 - [ ] **Velocità del Sito**: Monitora la site speed e ottimizza dove necessario (es. con Google PageSpeed Insights o GTmetrix).
 - [ ] **Ottimizzazione Immagini**: Ottimizza le immagini per il web mantenendo un equilibrio tra qualità e dimensione del file.
 - [ ] **Implementazione HTTPS**: Assicurati che il tuo sito utilizzi HTTPS e che tutti i contenuti siano serviti in modo sicuro.
-- [ ] **Implementazione e Monitoraggio AMP**: Se appropriato per il tuo sito, implementa e monitora le pagine AMP (Accelerated Mobile Pages) per migliorare le prestazioni su dispositivi mobili.
 - [ ] **Monitoraggio Core Web Vitals**: Tieni d'occhio le metriche come LCP, FID e CLS, e ottimizza dove necessario.
 
 #### Analisi
 
 - [ ] **Ottimizzazione Meta Tags**: Assicurati che ogni pagina abbia titolo, descrizione e parole chiave pertinenti e ottimizzate.
-- [ ] **Ottimizzazione per Siti Multilingua**: Se il sito supporta più lingue, implementa correttamente i tag hreflang.
+- [ ] **Ottimizzazione per Siti Multilingua**: Se il sito supporta più lingue, implementa correttamente i tag hreflang (controlla che vengano le pagine dinamiche abbiano gli slug tradotti).
 - [ ] **Gestione Contenuto Duplicato**: Usa strumenti come Screaming Frog o SEMrush per evitare contenuti duplicati e applicare i tag canonici corretti.
 - [ ] **Controllo Broken Links**: Usa strumenti come Screaming Frog o altri scanner per identificare e correggere i broken link.
 - [ ] **Monitoraggio Indicizzazione del Sito**: Utilizza piattaforme come Google Search Console per monitorare l'indicizzazione del tuo sito dai motori di ricerca.
