@@ -1,4 +1,4 @@
-# Checkgpt Frontend Checklist
+# Checklist ChatGPT Frontend
 
 A comprehensive checklist for optimizing your frontend. Enhanced by ChatGPT insights
 
